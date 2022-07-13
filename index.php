@@ -7,7 +7,7 @@
   $title = SITE_NAME .' | Top';
 
   // ジャンボトロン
-  $title_jumbo = 'Hello Wolrd!';
+  $title_jumbo = 'Hello World!';
   $desc_jumbo = 'The quick brown fox jumps over the lazy dog';
 ?>
 
