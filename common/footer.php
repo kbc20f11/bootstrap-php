@@ -1,4 +1,4 @@
-<footer class="shadow-lg footer py-3 mt-auto bg-light rounded">
+<footer class="footer py-3 mt-auto bg-light">
   <div class="container text-center">
     <span class="text-muted">© <?= h(date('Y')); ?> <?= SITE_NAME ?></span>
   </div>
